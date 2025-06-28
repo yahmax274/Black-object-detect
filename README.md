@@ -32,7 +32,7 @@ This project is designed to detect whether the **black copper areas** on a **PCB
 
 **Initial Window**
 
-![Initial Window](view/init%20windows.png)
+![Initial Window](view/init_windows.png)
 
 **Detection Demo**
 
